@@ -1,5 +1,8 @@
 # Bank-term-plan-Classifier
 
+Decision Tree classifier is the best model to predict whether or not a potential client will suscribe to a term deposit or not. 90% accuracy!
+
+
 The process by which companies create value for customers and build strong customer relationships in order to capture value from customers in return.
 
 Context:
@@ -30,5 +33,3 @@ Thus, this input should only be included for benchmark purposes and should be di
 
 Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
-
-Decision Tree classifier is the best model to predict whether or not a potential client will suscribe to a term deposit or not. 90% accuracy!
